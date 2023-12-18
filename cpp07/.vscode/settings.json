@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"*.tpp": "cpp",
+		"__tuple": "cpp",
+		"array": "cpp"
+	}
+}
